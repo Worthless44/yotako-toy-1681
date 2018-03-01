@@ -1,0 +1,2353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" >
+    <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" >
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_guidelines_top2b4aaf61-dfe8-4013-a1b4-b022c90a902d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0978" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_guidelines_start2b4aaf61-dfe8-4013-a1b4-b022c90a902d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_guidelines_bottom2b4aaf61-dfe8-4013-a1b4-b022c90a902d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.16301" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_guidelines_end2b4aaf61-dfe8-4013-a1b4-b022c90a902d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+        <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_container_0_2b4aaf61_dfe8_4013_a1b4_b022c90a902d" android:background="#1e4562" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_container_0_guidelines_start2b4aaf61-dfe8-4013-a1b4-b022c90a902d" app:layout_constraintTop_toTopOf="@+id/Actualité_container_0_guidelines_top2b4aaf61-dfe8-4013-a1b4-b022c90a902d" app:layout_constraintEnd_toEndOf="@+id/Actualité_container_0_guidelines_end2b4aaf61-dfe8-4013-a1b4-b022c90a902d" app:layout_constraintBottom_toBottomOf="@+id/Actualité_container_0_guidelines_bottom2b4aaf61-dfe8-4013-a1b4-b022c90a902d">
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_text_28_guidelines_top95bf6712-3637-4b06-b858-9aee96d2ffba"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5333" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_text_28_guidelines_start95bf6712-3637-4b06-b858-9aee96d2ffba"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.022000000000000002" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_text_28_guidelines_bottom95bf6712-3637-4b06-b858-9aee96d2ffba"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.86663" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_text_28_guidelines_end95bf6712-3637-4b06-b858-9aee96d2ffba"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.60919" />
+            <TextView
+android:id="@+id/Actualité_container_0_text_28"
+android:fontFamily="Calibri"
+ android:text="Retrouvez toute l&#39;actualité de l&#39;emploi et du groupe. Etudes, baromètres des salaires, nouvelles lois, actualités de vos métiers, etc..." 
+android:textColor="#eeeeee"
+android:textSize="3.2dp"
+android:gravity="left|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_container_0_text_28_guidelines_start95bf6712-3637-4b06-b858-9aee96d2ffba"
+app:layout_constraintTop_toTopOf="@+id/Actualité_container_0_text_28_guidelines_top95bf6712-3637-4b06-b858-9aee96d2ffba"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_container_0_text_28_guidelines_end95bf6712-3637-4b06-b858-9aee96d2ffba"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_container_0_text_28_guidelines_bottom95bf6712-3637-4b06-b858-9aee96d2ffba" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_guidelines_top8446e075-322a-4bb4-a432-1d21b2c73376"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_guidelines_start8446e075-322a-4bb4-a432-1d21b2c73376"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.051500000000000004" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_guidelines_bottom8446e075-322a-4bb4-a432-1d21b2c73376"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.45" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_guidelines_end8446e075-322a-4bb4-a432-1d21b2c73376"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.40911000000000003" />
+            <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_container_0_row_0_8446e075_322a_4bb4_a432_1d21b2c73376" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_container_0_row_0_guidelines_start8446e075-322a-4bb4-a432-1d21b2c73376" app:layout_constraintTop_toTopOf="@+id/Actualité_container_0_row_0_guidelines_top8446e075-322a-4bb4-a432-1d21b2c73376" app:layout_constraintEnd_toEndOf="@+id/Actualité_container_0_row_0_guidelines_end8446e075-322a-4bb4-a432-1d21b2c73376" app:layout_constraintBottom_toBottomOf="@+id/Actualité_container_0_row_0_guidelines_bottom8446e075-322a-4bb4-a432-1d21b2c73376">
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_text_27_guidelines_topa04fa377-51a1-4a6b-8cfb-692b4c18d467"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.18510000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_text_27_guidelines_starta04fa377-51a1-4a6b-8cfb-692b4c18d467"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_text_27_guidelines_bottoma04fa377-51a1-4a6b-8cfb-692b4c18d467"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1.1851" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_text_27_guidelines_enda04fa377-51a1-4a6b-8cfb-692b4c18d467"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.19957999999999998" />
+                <TextView
+android:id="@+id/Actualité_container_0_row_0_text_27"
+android:fontFamily="Calibri"
+ android:text="Actualités" 
+android:textColor="#eeeeee"
+android:textSize="5.6000000000000005dp"
+android:gravity="left|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_container_0_row_0_text_27_guidelines_starta04fa377-51a1-4a6b-8cfb-692b4c18d467"
+app:layout_constraintTop_toTopOf="@+id/Actualité_container_0_row_0_text_27_guidelines_topa04fa377-51a1-4a6b-8cfb-692b4c18d467"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_container_0_row_0_text_27_guidelines_enda04fa377-51a1-4a6b-8cfb-692b4c18d467"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_container_0_row_0_text_27_guidelines_bottoma04fa377-51a1-4a6b-8cfb-692b4c18d467" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_unsupported_5_guidelines_top88feebfb-8ece-40f1-b6f0-3ef5f3d69752"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_unsupported_5_guidelines_start88feebfb-8ece-40f1-b6f0-3ef5f3d69752"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9176000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_unsupported_5_guidelines_bottom88feebfb-8ece-40f1-b6f0-3ef5f3d69752"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.55555" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_container_0_row_0_unsupported_5_guidelines_end88feebfb-8ece-40f1-b6f0-3ef5f3d69752"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999000000000001" />
+                <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_container_0_row_0_unsupported_5_88feebfb_8ece_40f1_b6f0_3ef5f3d69752" android:background="#ff0000" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_container_0_row_0_unsupported_5_guidelines_start88feebfb-8ece-40f1-b6f0-3ef5f3d69752" app:layout_constraintTop_toTopOf="@+id/Actualité_container_0_row_0_unsupported_5_guidelines_top88feebfb-8ece-40f1-b6f0-3ef5f3d69752" app:layout_constraintEnd_toEndOf="@+id/Actualité_container_0_row_0_unsupported_5_guidelines_end88feebfb-8ece-40f1-b6f0-3ef5f3d69752" app:layout_constraintBottom_toBottomOf="@+id/Actualité_container_0_row_0_unsupported_5_guidelines_bottom88feebfb-8ece-40f1-b6f0-3ef5f3d69752">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                    <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+                </android.support.constraint.ConstraintLayout>
+            </android.support.constraint.ConstraintLayout>
+        </android.support.constraint.ConstraintLayout>
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_guidelines_topa0e5a802-5d4e-4db6-8ff2-46f5017f8143"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8020999999999999" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_guidelines_starta0e5a802-5d4e-4db6-8ff2-46f5017f8143"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.08380000000000001" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_guidelines_bottoma0e5a802-5d4e-4db6-8ff2-46f5017f8143"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9521" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_guidelines_enda0e5a802-5d4e-4db6-8ff2-46f5017f8143"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.97931" />
+        <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_3_a0e5a802_5d4e_4db6_8ff2_46f5017f8143" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_guidelines_starta0e5a802-5d4e-4db6-8ff2-46f5017f8143" app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_guidelines_topa0e5a802-5d4e-4db6-8ff2-46f5017f8143" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_guidelines_enda0e5a802-5d4e-4db6-8ff2-46f5017f8143" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_guidelines_bottoma0e5a802-5d4e-4db6-8ff2-46f5017f8143">
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_guidelines_top2e9622fd-df27-422a-90f7-2c957f5c0f00"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0072" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_guidelines_start2e9622fd-df27-422a-90f7-2c957f5c0f00"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_guidelines_bottom2e9622fd-df27-422a-90f7-2c957f5c0f00"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1.0072" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_guidelines_end2e9622fd-df27-422a-90f7-2c957f5c0f00"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.1594" />
+            <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_3_listbox_0_2e9622fd_df27_422a_90f7_2c957f5c0f00" android:background="#333333" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_listbox_0_guidelines_start2e9622fd-df27-422a-90f7-2c957f5c0f00" app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_listbox_0_guidelines_top2e9622fd-df27-422a-90f7-2c957f5c0f00" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_listbox_0_guidelines_end2e9622fd-df27-422a-90f7-2c957f5c0f00" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_listbox_0_guidelines_bottom2e9622fd-df27-422a-90f7-2c957f5c0f00">
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_2_guidelines_top807ef2a6-125c-47cc-a6d7-3610f1402285"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_2_guidelines_start807ef2a6-125c-47cc-a6d7-3610f1402285"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.025699999999999997" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_2_guidelines_bottom807ef2a6-125c-47cc-a6d7-3610f1402285"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.11593999999999999" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_2_guidelines_end807ef2a6-125c-47cc-a6d7-3610f1402285"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.97415" />
+                <TextView
+android:id="@+id/Actualité_row_3_listbox_0_text_2"
+android:fontFamily="Calibri"
+ android:text="Accueil" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_listbox_0_text_2_guidelines_start807ef2a6-125c-47cc-a6d7-3610f1402285"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_listbox_0_text_2_guidelines_top807ef2a6-125c-47cc-a6d7-3610f1402285"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_listbox_0_text_2_guidelines_end807ef2a6-125c-47cc-a6d7-3610f1402285"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_listbox_0_text_2_guidelines_bottom807ef2a6-125c-47cc-a6d7-3610f1402285" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_3_guidelines_topcb043407-7906-4f2a-a8a6-e41f008406b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1159" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_3_guidelines_startcb043407-7906-4f2a-a8a6-e41f008406b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.025699999999999997" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_3_guidelines_bottomcb043407-7906-4f2a-a8a6-e41f008406b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.23183999999999996" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_3_guidelines_endcb043407-7906-4f2a-a8a6-e41f008406b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.97415" />
+                <TextView
+android:id="@+id/Actualité_row_3_listbox_0_text_3"
+android:fontFamily="Calibri"
+ android:text="Actualités" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_listbox_0_text_3_guidelines_startcb043407-7906-4f2a-a8a6-e41f008406b2"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_listbox_0_text_3_guidelines_topcb043407-7906-4f2a-a8a6-e41f008406b2"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_listbox_0_text_3_guidelines_endcb043407-7906-4f2a-a8a6-e41f008406b2"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_listbox_0_text_3_guidelines_bottomcb043407-7906-4f2a-a8a6-e41f008406b2" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_4_guidelines_top0cdb658a-c9f6-4fce-89ae-29b08d3cd39b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2318" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_4_guidelines_start0cdb658a-c9f6-4fce-89ae-29b08d3cd39b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.025699999999999997" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_4_guidelines_bottom0cdb658a-c9f6-4fce-89ae-29b08d3cd39b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.34774" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_4_guidelines_end0cdb658a-c9f6-4fce-89ae-29b08d3cd39b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.97415" />
+                <TextView
+android:id="@+id/Actualité_row_3_listbox_0_text_4"
+android:fontFamily="Calibri"
+ android:text="Nos Offres" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_listbox_0_text_4_guidelines_start0cdb658a-c9f6-4fce-89ae-29b08d3cd39b"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_listbox_0_text_4_guidelines_top0cdb658a-c9f6-4fce-89ae-29b08d3cd39b"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_listbox_0_text_4_guidelines_end0cdb658a-c9f6-4fce-89ae-29b08d3cd39b"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_listbox_0_text_4_guidelines_bottom0cdb658a-c9f6-4fce-89ae-29b08d3cd39b" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_5_guidelines_topd2f73a6c-7083-4909-a6f7-d428bb16771d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.3478" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_5_guidelines_startd2f73a6c-7083-4909-a6f7-d428bb16771d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.025699999999999997" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_5_guidelines_bottomd2f73a6c-7083-4909-a6f7-d428bb16771d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.46374000000000004" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_5_guidelines_endd2f73a6c-7083-4909-a6f7-d428bb16771d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.97415" />
+                <TextView
+android:id="@+id/Actualité_row_3_listbox_0_text_5"
+android:fontFamily="Calibri"
+ android:text="Le Groupe" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_listbox_0_text_5_guidelines_startd2f73a6c-7083-4909-a6f7-d428bb16771d"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_listbox_0_text_5_guidelines_topd2f73a6c-7083-4909-a6f7-d428bb16771d"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_listbox_0_text_5_guidelines_endd2f73a6c-7083-4909-a6f7-d428bb16771d"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_listbox_0_text_5_guidelines_bottomd2f73a6c-7083-4909-a6f7-d428bb16771d" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_6_guidelines_top8f89aa24-8e80-4eff-8105-7f58fbaee25b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.4637" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_6_guidelines_start8f89aa24-8e80-4eff-8105-7f58fbaee25b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.025699999999999997" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_6_guidelines_bottom8f89aa24-8e80-4eff-8105-7f58fbaee25b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5796399999999999" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_6_guidelines_end8f89aa24-8e80-4eff-8105-7f58fbaee25b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.97415" />
+                <TextView
+android:id="@+id/Actualité_row_3_listbox_0_text_6"
+android:fontFamily="Calibri"
+ android:text="Nous Contacter" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_listbox_0_text_6_guidelines_start8f89aa24-8e80-4eff-8105-7f58fbaee25b"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_listbox_0_text_6_guidelines_top8f89aa24-8e80-4eff-8105-7f58fbaee25b"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_listbox_0_text_6_guidelines_end8f89aa24-8e80-4eff-8105-7f58fbaee25b"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_listbox_0_text_6_guidelines_bottom8f89aa24-8e80-4eff-8105-7f58fbaee25b" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_7_guidelines_top59bd38d9-f8d9-4eb8-86ef-e19aeceebdc3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5797" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_7_guidelines_start59bd38d9-f8d9-4eb8-86ef-e19aeceebdc3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.025699999999999997" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_7_guidelines_bottom59bd38d9-f8d9-4eb8-86ef-e19aeceebdc3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6956399999999999" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_listbox_0_text_7_guidelines_end59bd38d9-f8d9-4eb8-86ef-e19aeceebdc3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.97415" />
+                <TextView
+android:id="@+id/Actualité_row_3_listbox_0_text_7"
+android:fontFamily="Calibri"
+ android:text="F.A.Q." 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_listbox_0_text_7_guidelines_start59bd38d9-f8d9-4eb8-86ef-e19aeceebdc3"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_listbox_0_text_7_guidelines_top59bd38d9-f8d9-4eb8-86ef-e19aeceebdc3"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_listbox_0_text_7_guidelines_end59bd38d9-f8d9-4eb8-86ef-e19aeceebdc3"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_listbox_0_text_7_guidelines_bottom59bd38d9-f8d9-4eb8-86ef-e19aeceebdc3" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_guidelines_top08c4513d-d318-4d7f-967a-cfdc8384049f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_guidelines_start08c4513d-d318-4d7f-967a-cfdc8384049f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.7254999999999999" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_guidelines_bottom08c4513d-d318-4d7f-967a-cfdc8384049f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_guidelines_end08c4513d-d318-4d7f-967a-cfdc8384049f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99994" />
+            <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_3_column_2_08c4513d_d318_4d7f_967a_cfdc8384049f" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_2_guidelines_start08c4513d-d318-4d7f-967a-cfdc8384049f" app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_2_guidelines_top08c4513d-d318-4d7f-967a-cfdc8384049f" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_2_guidelines_end08c4513d-d318-4d7f-967a-cfdc8384049f" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_2_guidelines_bottom08c4513d-d318-4d7f-967a-cfdc8384049f">
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_guidelines_topbb8fd48b-2efd-44d2-a0f5-69643f3843e7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1666" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_guidelines_startbb8fd48b-2efd-44d2-a0f5-69643f3843e7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3053" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_guidelines_bottombb8fd48b-2efd-44d2-a0f5-69643f3843e7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.39848" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_guidelines_endbb8fd48b-2efd-44d2-a0f5-69643f3843e7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6885300000000001" />
+                <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_3_column_2_row_1_bb8fd48b_2efd_44d2_a0f5_69643f3843e7" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_2_row_1_guidelines_startbb8fd48b-2efd-44d2-a0f5-69643f3843e7" app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_2_row_1_guidelines_topbb8fd48b-2efd-44d2-a0f5-69643f3843e7" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_2_row_1_guidelines_endbb8fd48b-2efd-44d2-a0f5-69643f3843e7" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_2_row_1_guidelines_bottombb8fd48b-2efd-44d2-a0f5-69643f3843e7">
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_1_guidelines_top149ddd1a-62de-4a02-9a85-aeadf6bb1141"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_1_guidelines_start149ddd1a-62de-4a02-9a85-aeadf6bb1141"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_1_guidelines_bottom149ddd1a-62de-4a02-9a85-aeadf6bb1141"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_1_guidelines_end149ddd1a-62de-4a02-9a85-aeadf6bb1141"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.25" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_1_149ddd1a_62de_4a02_9a85_aeadf6bb1141" android:background="#ff0000" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_2_row_1_unsupported_1_guidelines_start149ddd1a-62de-4a02-9a85-aeadf6bb1141" app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_2_row_1_unsupported_1_guidelines_top149ddd1a-62de-4a02-9a85-aeadf6bb1141" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_2_row_1_unsupported_1_guidelines_end149ddd1a-62de-4a02-9a85-aeadf6bb1141" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_2_row_1_unsupported_1_guidelines_bottom149ddd1a-62de-4a02-9a85-aeadf6bb1141">
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                        <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+                    </android.support.constraint.ConstraintLayout>
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_2_guidelines_top7cae577f-4d54-4507-9b58-76ccee93edca"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_2_guidelines_start7cae577f-4d54-4507-9b58-76ccee93edca"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.375" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_2_guidelines_bottom7cae577f-4d54-4507-9b58-76ccee93edca"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_2_guidelines_end7cae577f-4d54-4507-9b58-76ccee93edca"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.625" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_2_7cae577f_4d54_4507_9b58_76ccee93edca" android:background="#ff0000" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_2_row_1_unsupported_2_guidelines_start7cae577f-4d54-4507-9b58-76ccee93edca" app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_2_row_1_unsupported_2_guidelines_top7cae577f-4d54-4507-9b58-76ccee93edca" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_2_row_1_unsupported_2_guidelines_end7cae577f-4d54-4507-9b58-76ccee93edca" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_2_row_1_unsupported_2_guidelines_bottom7cae577f-4d54-4507-9b58-76ccee93edca">
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                        <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+                    </android.support.constraint.ConstraintLayout>
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_3_guidelines_top93873603-3021-4f05-b683-61de07c1ea29"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_3_guidelines_start93873603-3021-4f05-b683-61de07c1ea29"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_3_guidelines_bottom93873603-3021-4f05-b683-61de07c1ea29"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_3_guidelines_end93873603-3021-4f05-b683-61de07c1ea29"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_3_column_2_row_1_unsupported_3_93873603_3021_4f05_b683_61de07c1ea29" android:background="#ff0000" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_2_row_1_unsupported_3_guidelines_start93873603-3021-4f05-b683-61de07c1ea29" app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_2_row_1_unsupported_3_guidelines_top93873603-3021-4f05-b683-61de07c1ea29" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_2_row_1_unsupported_3_guidelines_end93873603-3021-4f05-b683-61de07c1ea29" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_2_row_1_unsupported_3_guidelines_bottom93873603-3021-4f05-b683-61de07c1ea29">
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                        <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+                    </android.support.constraint.ConstraintLayout>
+                </android.support.constraint.ConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_text_0_guidelines_topa82f8d8d-e0d3-4c49-a132-25d629a732cb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_text_0_guidelines_starta82f8d8d-e0d3-4c49-a132-25d629a732cb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_text_0_guidelines_bottoma82f8d8d-e0d3-4c49-a132-25d629a732cb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.16666" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_text_0_guidelines_enda82f8d8d-e0d3-4c49-a132-25d629a732cb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+                <TextView
+android:id="@+id/Actualité_row_3_column_2_text_0"
+android:fontFamily="Calibri"
+ android:text="Retrouvez-nous sur les réseaux sociaux :" 
+android:textColor="#eeeeee"
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_2_text_0_guidelines_starta82f8d8d-e0d3-4c49-a132-25d629a732cb"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_2_text_0_guidelines_topa82f8d8d-e0d3-4c49-a132-25d629a732cb"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_2_text_0_guidelines_enda82f8d8d-e0d3-4c49-a132-25d629a732cb"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_2_text_0_guidelines_bottoma82f8d8d-e0d3-4c49-a132-25d629a732cb" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_image_1_guidelines_topf00032d0-112a-442f-a912-4dd4cf5935d7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7101000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_image_1_guidelines_startf00032d0-112a-442f-a912-4dd4cf5935d7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2904" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_image_1_guidelines_bottomf00032d0-112a-442f-a912-4dd4cf5935d7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.99995" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_2_image_1_guidelines_endf00032d0-112a-442f-a912-4dd4cf5935d7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.7065600000000001" />
+                <ImageView
+android:id="@+id/Actualité_row_3_column_2_image_1"
+android:src="@mipmap/ic_launcher_round"
+android:layout_width="38dp"
+android:layout_height="11dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_2_image_1_guidelines_startf00032d0-112a-442f-a912-4dd4cf5935d7"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_2_image_1_guidelines_topf00032d0-112a-442f-a912-4dd4cf5935d7"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_2_image_1_guidelines_endf00032d0-112a-442f-a912-4dd4cf5935d7"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_2_image_1_guidelines_bottomf00032d0-112a-442f-a912-4dd4cf5935d7" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_guidelines_top89010758-d9b5-4b4a-9140-e3cb566a3690"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_guidelines_start89010758-d9b5-4b4a-9140-e3cb566a3690"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2539" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_guidelines_bottom89010758-d9b5-4b4a-9140-e3cb566a3690"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1.10869" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_guidelines_end89010758-d9b5-4b4a-9140-e3cb566a3690"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.67707" />
+            <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_3_column_1_89010758_d9b5_4b4a_9140_e3cb566a3690" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_1_guidelines_start89010758-d9b5-4b4a-9140-e3cb566a3690" app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_1_guidelines_top89010758-d9b5-4b4a-9140-e3cb566a3690" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_1_guidelines_end89010758-d9b5-4b4a-9140-e3cb566a3690" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_1_guidelines_bottom89010758-d9b5-4b4a-9140-e3cb566a3690">
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_text_1_guidelines_top01adf696-29a4-478f-bbf2-cbec0b9cd57f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_text_1_guidelines_start01adf696-29a4-478f-bbf2-cbec0b9cd57f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_text_1_guidelines_bottom01adf696-29a4-478f-bbf2-cbec0b9cd57f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.39869" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_text_1_guidelines_end01adf696-29a4-478f-bbf2-cbec0b9cd57f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+                <TextView
+android:id="@+id/Actualité_row_3_column_1_text_1"
+android:fontFamily="Calibri"
+ android:text="GENY Intérim est une filiale de GENY Groupe fondé en 1999.
+GENY Intérim traite les offres d&#39;emplois de courte et longue durées, dans 
+différents secteurs d&#39;activité." 
+android:textColor="#eeeeee"
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_1_text_1_guidelines_start01adf696-29a4-478f-bbf2-cbec0b9cd57f"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_1_text_1_guidelines_top01adf696-29a4-478f-bbf2-cbec0b9cd57f"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_1_text_1_guidelines_end01adf696-29a4-478f-bbf2-cbec0b9cd57f"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_1_text_1_guidelines_bottom01adf696-29a4-478f-bbf2-cbec0b9cd57f" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_image_2_guidelines_top1302f1a7-837b-4bf7-80d8-2a66f85d60f4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5489999999999999" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_image_2_guidelines_start1302f1a7-837b-4bf7-80d8-2a66f85d60f4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.332" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_image_2_guidelines_bottom1302f1a7-837b-4bf7-80d8-2a66f85d60f4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9999799999999999" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_3_column_1_image_2_guidelines_end1302f1a7-837b-4bf7-80d8-2a66f85d60f4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6679200000000001" />
+                <ImageView
+android:id="@+id/Actualité_row_3_column_1_image_2"
+android:src="@mipmap/ic_launcher_round"
+android:layout_width="48dp"
+android:layout_height="19dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_3_column_1_image_2_guidelines_start1302f1a7-837b-4bf7-80d8-2a66f85d60f4"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_3_column_1_image_2_guidelines_top1302f1a7-837b-4bf7-80d8-2a66f85d60f4"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_3_column_1_image_2_guidelines_end1302f1a7-837b-4bf7-80d8-2a66f85d60f4"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_3_column_1_image_2_guidelines_bottom1302f1a7-837b-4bf7-80d8-2a66f85d60f4" />
+            </android.support.constraint.ConstraintLayout>
+        </android.support.constraint.ConstraintLayout>
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_guidelines_topfb9bc810-541f-4924-8ea7-7197762255d6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0184" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_guidelines_startfb9bc810-541f-4924-8ea7-7197762255d6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.038900000000000004" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_guidelines_bottomfb9bc810-541f-4924-8ea7-7197762255d6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.08035" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_guidelines_endfb9bc810-541f-4924-8ea7-7197762255d6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.71292" />
+        <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_0_fb9bc810_541f_4924_8ea7_7197762255d6" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_0_guidelines_startfb9bc810-541f-4924-8ea7-7197762255d6" app:layout_constraintTop_toTopOf="@+id/Actualité_row_0_guidelines_topfb9bc810-541f-4924-8ea7-7197762255d6" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_0_guidelines_endfb9bc810-541f-4924-8ea7-7197762255d6" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_0_guidelines_bottomfb9bc810-541f-4924-8ea7-7197762255d6">
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_image_0_guidelines_top4e099f21-d333-4064-b3b9-60d827ae1de5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_image_0_guidelines_start4e099f21-d333-4064-b3b9-60d827ae1de5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_image_0_guidelines_bottom4e099f21-d333-4064-b3b9-60d827ae1de5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_image_0_guidelines_end4e099f21-d333-4064-b3b9-60d827ae1de5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.19213000000000002" />
+            <ImageView
+android:id="@+id/Actualité_row_0_image_0"
+android:src="@mipmap/ic_launcher_round"
+android:layout_width="49dp"
+android:layout_height="16dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_0_image_0_guidelines_start4e099f21-d333-4064-b3b9-60d827ae1de5"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_0_image_0_guidelines_top4e099f21-d333-4064-b3b9-60d827ae1de5"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_0_image_0_guidelines_end4e099f21-d333-4064-b3b9-60d827ae1de5"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_0_image_0_guidelines_bottom4e099f21-d333-4064-b3b9-60d827ae1de5" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_unsupported_0_guidelines_top5dee0967-1788-44b9-9313-b1e97d051852"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.4561" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_unsupported_0_guidelines_start5dee0967-1788-44b9-9313-b1e97d051852"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.4028" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_unsupported_0_guidelines_bottom5dee0967-1788-44b9-9313-b1e97d051852"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9122399999999999" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_0_unsupported_0_guidelines_end5dee0967-1788-44b9-9313-b1e97d051852"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+            <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_0_unsupported_0_5dee0967_1788_44b9_9313_b1e97d051852" android:background="#ff0000" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_0_unsupported_0_guidelines_start5dee0967-1788-44b9-9313-b1e97d051852" app:layout_constraintTop_toTopOf="@+id/Actualité_row_0_unsupported_0_guidelines_top5dee0967-1788-44b9-9313-b1e97d051852" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_0_unsupported_0_guidelines_end5dee0967-1788-44b9-9313-b1e97d051852" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_0_unsupported_0_guidelines_bottom5dee0967-1788-44b9-9313-b1e97d051852">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+            </android.support.constraint.ConstraintLayout>
+        </android.support.constraint.ConstraintLayout>
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_guidelines_top1c7de48b-cfa1-401c-a9f4-18a12b1330b7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.163" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_guidelines_start1c7de48b-cfa1-401c-a9f4-18a12b1330b7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_guidelines_bottom1c7de48b-cfa1-401c-a9f4-18a12b1330b7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7586499999999999" />
+        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_guidelines_end1c7de48b-cfa1-401c-a9f4-18a12b1330b7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.86387" />
+        <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_1c7de48b_cfa1_401c_a9f4_18a12b1330b7" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_guidelines_start1c7de48b-cfa1-401c-a9f4-18a12b1330b7" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_guidelines_top1c7de48b-cfa1-401c-a9f4-18a12b1330b7" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_guidelines_end1c7de48b-cfa1-401c-a9f4-18a12b1330b7" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_guidelines_bottom1c7de48b-cfa1-401c-a9f4-18a12b1330b7">
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_guidelines_topa9777a43-cded-48f9-a8e2-79cc918ccc7a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0364" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_guidelines_starta9777a43-cded-48f9-a8e2-79cc918ccc7a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3458" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_guidelines_bottoma9777a43-cded-48f9-a8e2-79cc918ccc7a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7973399999999999" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_guidelines_enda9777a43-cded-48f9-a8e2-79cc918ccc7a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99997" />
+            <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_a9777a43_cded_48f9_a8e2_79cc918ccc7a" android:background="#ffffff" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_guidelines_starta9777a43-cded-48f9-a8e2-79cc918ccc7a" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_guidelines_topa9777a43-cded-48f9-a8e2-79cc918ccc7a" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_guidelines_enda9777a43-cded-48f9-a8e2-79cc918ccc7a" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_guidelines_bottoma9777a43-cded-48f9-a8e2-79cc918ccc7a">
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_guidelines_top5bccbffe-6e47-4532-b849-f8b96bb3371a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_guidelines_start5bccbffe-6e47-4532-b849-f8b96bb3371a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_guidelines_bottom5bccbffe-6e47-4532-b849-f8b96bb3371a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.40767000000000003" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_guidelines_end5bccbffe-6e47-4532-b849-f8b96bb3371a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_0_5bccbffe_6e47_4532_b849_f8b96bb3371a" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_0_guidelines_start5bccbffe-6e47-4532-b849-f8b96bb3371a" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_0_guidelines_top5bccbffe-6e47-4532-b849-f8b96bb3371a" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_0_guidelines_end5bccbffe-6e47-4532-b849-f8b96bb3371a" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_0_guidelines_bottom5bccbffe-6e47-4532-b849-f8b96bb3371a">
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_guidelines_top87d1473e-122f-468b-a622-c81077d5260c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_guidelines_start87d1473e-122f-468b-a622-c81077d5260c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39840000000000003" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_guidelines_bottom87d1473e-122f-468b-a622-c81077d5260c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_guidelines_end87d1473e-122f-468b-a622-c81077d5260c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_0_container_5_87d1473e_122f_468b_a622_c81077d5260c" android:background="#ffffff" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_0_container_5_guidelines_start87d1473e-122f-468b-a622-c81077d5260c" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_0_container_5_guidelines_top87d1473e-122f-468b-a622-c81077d5260c" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_0_container_5_guidelines_end87d1473e-122f-468b-a622-c81077d5260c" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_0_container_5_guidelines_bottom87d1473e-122f-468b-a622-c81077d5260c">
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_17_guidelines_top125884b4-eef1-4037-af8a-2ec9fe06ceaa"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0588" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_17_guidelines_start125884b4-eef1-4037-af8a-2ec9fe06ceaa"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0216" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_17_guidelines_bottom125884b4-eef1-4037-af8a-2ec9fe06ceaa"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.21173999999999998" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_17_guidelines_end125884b4-eef1-4037-af8a-2ec9fe06ceaa"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.91337" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_17"
+android:fontFamily="Calibri"
+ android:text="Recherche d’emploi : 5 conseils et astuces pour trouver" 
+android:textSize="4dp"
+android:gravity="left|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_0_container_5_text_17_guidelines_start125884b4-eef1-4037-af8a-2ec9fe06ceaa"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_0_container_5_text_17_guidelines_top125884b4-eef1-4037-af8a-2ec9fe06ceaa"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_0_container_5_text_17_guidelines_end125884b4-eef1-4037-af8a-2ec9fe06ceaa"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_0_container_5_text_17_guidelines_bottom125884b4-eef1-4037-af8a-2ec9fe06ceaa" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_18_guidelines_topdd05df6a-b33c-4c6a-b4cd-06ef9e60bb4b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.21170000000000003" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_18_guidelines_startdd05df6a-b33c-4c6a-b4cd-06ef9e60bb4b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0216" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_18_guidelines_bottomdd05df6a-b33c-4c6a-b4cd-06ef9e60bb4b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.90581" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_18_guidelines_enddd05df6a-b33c-4c6a-b4cd-06ef9e60bb4b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9783" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_1_row_0_container_5_text_18"
+android:fontFamily="Calibri"
+ android:text="Annonces lacunaires, lettres de motivation balbutiantes, CV reformatés, r
+elances par centaines : la recherche d’emploi peut être perçue et vécue c
+omme une démarche aussi laborieuse qu’hasardeuse.
+Selon le Parisien.fr, seuls 10 % des Français feraient aujourd’hui confianc
+e à Pôle Emploi pour trouver du travail, contre 67 % il y a 40 ans (alors AN
+PE)." 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_0_container_5_text_18_guidelines_startdd05df6a-b33c-4c6a-b4cd-06ef9e60bb4b"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_0_container_5_text_18_guidelines_topdd05df6a-b33c-4c6a-b4cd-06ef9e60bb4b"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_0_container_5_text_18_guidelines_enddd05df6a-b33c-4c6a-b4cd-06ef9e60bb4b"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_0_container_5_text_18_guidelines_bottomdd05df6a-b33c-4c6a-b4cd-06ef9e60bb4b" />
+                    </android.support.constraint.ConstraintLayout>
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_7_guidelines_top9bbaa6d2-8f86-4567-83e3-f1261688d6e7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_7_guidelines_start9bbaa6d2-8f86-4567-83e3-f1261688d6e7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_7_guidelines_bottom9bbaa6d2-8f86-4567-83e3-f1261688d6e7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_7_guidelines_end9bbaa6d2-8f86-4567-83e3-f1261688d6e7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39843000000000006" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_0_container_7_9bbaa6d2_8f86_4567_83e3_f1261688d6e7" android:background="#ffffff" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_0_container_7_guidelines_start9bbaa6d2-8f86-4567-83e3-f1261688d6e7" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_0_container_7_guidelines_top9bbaa6d2-8f86-4567-83e3-f1261688d6e7" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_0_container_7_guidelines_end9bbaa6d2-8f86-4567-83e3-f1261688d6e7" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_0_container_7_guidelines_bottom9bbaa6d2-8f86-4567-83e3-f1261688d6e7">
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_7_image_3_guidelines_topdb2e1dda-9406-4c2d-b5e2-c54c0798bfcb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0588" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_7_image_3_guidelines_startdb2e1dda-9406-4c2d-b5e2-c54c0798bfcb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.052199999999999996" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_7_image_3_guidelines_bottomdb2e1dda-9406-4c2d-b5e2-c54c0798bfcb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7646799999999999" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_0_container_7_image_3_guidelines_enddb2e1dda-9406-4c2d-b5e2-c54c0798bfcb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.94762" />
+                        <ImageView
+android:id="@+id/Actualité_row_2_container_1_row_0_container_7_image_3"
+android:src="@mipmap/ic_launcher_round"
+android:layout_width="76dp"
+android:layout_height="33dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_0_container_7_image_3_guidelines_startdb2e1dda-9406-4c2d-b5e2-c54c0798bfcb"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_0_container_7_image_3_guidelines_topdb2e1dda-9406-4c2d-b5e2-c54c0798bfcb"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_0_container_7_image_3_guidelines_enddb2e1dda-9406-4c2d-b5e2-c54c0798bfcb"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_0_container_7_image_3_guidelines_bottomdb2e1dda-9406-4c2d-b5e2-c54c0798bfcb" />
+                    </android.support.constraint.ConstraintLayout>
+                </android.support.constraint.ConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_guidelines_top7ed0607f-f542-474e-a652-50c0f08ba37b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.40759999999999996" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_guidelines_start7ed0607f-f542-474e-a652-50c0f08ba37b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_guidelines_bottom7ed0607f-f542-474e-a652-50c0f08ba37b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.47954" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_guidelines_end7ed0607f-f542-474e-a652-50c0f08ba37b"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_1_7ed0607f_f542_474e_a652_50c0f08ba37b" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_1_guidelines_start7ed0607f-f542-474e-a652-50c0f08ba37b" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_1_guidelines_top7ed0607f-f542-474e-a652-50c0f08ba37b" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_1_guidelines_end7ed0607f-f542-474e-a652-50c0f08ba37b" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_1_guidelines_bottom7ed0607f-f542-474e-a652-50c0f08ba37b">
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_guidelines_topa4f2f6c6-efdd-4384-aff2-e50c93849915"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_guidelines_starta4f2f6c6-efdd-4384-aff2-e50c93849915"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39840000000000003" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_guidelines_bottoma4f2f6c6-efdd-4384-aff2-e50c93849915"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_guidelines_enda4f2f6c6-efdd-4384-aff2-e50c93849915"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_1_container_6_a4f2f6c6_efdd_4384_aff2_e50c93849915" android:background="#ffffff" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_1_container_6_guidelines_starta4f2f6c6-efdd-4384-aff2-e50c93849915" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_1_container_6_guidelines_topa4f2f6c6-efdd-4384-aff2-e50c93849915" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_1_container_6_guidelines_enda4f2f6c6-efdd-4384-aff2-e50c93849915" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_1_container_6_guidelines_bottoma4f2f6c6-efdd-4384-aff2-e50c93849915">
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_guidelines_top665e8a78-b293-4a71-8a3a-9c565e8f247e"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1333" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_guidelines_start665e8a78-b293-4a71-8a3a-9c565e8f247e"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0216" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_guidelines_bottom665e8a78-b293-4a71-8a3a-9c565e8f247e"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.86663" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_guidelines_end665e8a78-b293-4a71-8a3a-9c565e8f247e"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.96532" />
+                        <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_665e8a78_b293_4a71_8a3a_9c565e8f247e" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_guidelines_start665e8a78-b293-4a71-8a3a-9c565e8f247e" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_guidelines_top665e8a78-b293-4a71-8a3a-9c565e8f247e" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_guidelines_end665e8a78-b293-4a71-8a3a-9c565e8f247e" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_guidelines_bottom665e8a78-b293-4a71-8a3a-9c565e8f247e">
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_0_guidelines_top2886f64f-6804-47a6-a5aa-450ca2576053"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_0_guidelines_start2886f64f-6804-47a6-a5aa-450ca2576053"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_0_guidelines_bottom2886f64f-6804-47a6-a5aa-450ca2576053"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_0_guidelines_end2886f64f-6804-47a6-a5aa-450ca2576053"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3188" />
+                            <Button
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_0"
+android:fontFamily="Calibri"
+android:text="Actualité Générale"
+android:textSize="4dp"
+android:background="#ffffff"
+android:layout_width="38dp"
+android:layout_height="6dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_0_guidelines_start2886f64f-6804-47a6-a5aa-450ca2576053"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_0_guidelines_top2886f64f-6804-47a6-a5aa-450ca2576053"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_0_guidelines_end2886f64f-6804-47a6-a5aa-450ca2576053"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_0_guidelines_bottom2886f64f-6804-47a6-a5aa-450ca2576053"/>
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_1_guidelines_topdf79c586-7a95-416b-b1be-3709fa08a756"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_1_guidelines_startdf79c586-7a95-416b-b1be-3709fa08a756"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3188" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_1_guidelines_bottomdf79c586-7a95-416b-b1be-3709fa08a756"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_1_guidelines_enddf79c586-7a95-416b-b1be-3709fa08a756"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5733799999999999" />
+                            <Button
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_1"
+android:fontFamily="Calibri"
+android:text="Geny Intérim"
+android:textSize="4dp"
+android:background="#ffffff"
+android:layout_width="31dp"
+android:layout_height="6dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_1_guidelines_startdf79c586-7a95-416b-b1be-3709fa08a756"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_1_guidelines_topdf79c586-7a95-416b-b1be-3709fa08a756"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_1_guidelines_enddf79c586-7a95-416b-b1be-3709fa08a756"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_button_1_guidelines_bottomdf79c586-7a95-416b-b1be-3709fa08a756"/>
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_text_19_guidelines_topc2401f5f-4cd6-4121-95e9-cbf711b72c6c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0454" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_text_19_guidelines_startc2401f5f-4cd6-4121-95e9-cbf711b72c6c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.8645999999999999" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_text_19_guidelines_bottomc2401f5f-4cd6-4121-95e9-cbf711b72c6c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.99994" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_text_19_guidelines_endc2401f5f-4cd6-4121-95e9-cbf711b72c6c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999199999999999" />
+                            <TextView
+android:id="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_text_19"
+android:fontFamily="Calibri"
+ android:text="Lire la suite" 
+android:textColor="#00000a"
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_text_19_guidelines_startc2401f5f-4cd6-4121-95e9-cbf711b72c6c"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_text_19_guidelines_topc2401f5f-4cd6-4121-95e9-cbf711b72c6c"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_text_19_guidelines_endc2401f5f-4cd6-4121-95e9-cbf711b72c6c"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_1_container_6_row_0_text_19_guidelines_bottomc2401f5f-4cd6-4121-95e9-cbf711b72c6c" />
+                        </android.support.constraint.ConstraintLayout>
+                    </android.support.constraint.ConstraintLayout>
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_8_guidelines_top8cc4924d-d3b3-47bd-acf4-97bbd33187c3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_8_guidelines_start8cc4924d-d3b3-47bd-acf4-97bbd33187c3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_8_guidelines_bottom8cc4924d-d3b3-47bd-acf4-97bbd33187c3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_8_guidelines_end8cc4924d-d3b3-47bd-acf4-97bbd33187c3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39843000000000006" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_1_container_8_8cc4924d_d3b3_47bd_acf4_97bbd33187c3" android:background="#ffffff" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_1_container_8_guidelines_start8cc4924d-d3b3-47bd-acf4-97bbd33187c3" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_1_container_8_guidelines_top8cc4924d-d3b3-47bd-acf4-97bbd33187c3" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_1_container_8_guidelines_end8cc4924d-d3b3-47bd-acf4-97bbd33187c3" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_1_container_8_guidelines_bottom8cc4924d-d3b3-47bd-acf4-97bbd33187c3">
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_8_text_20_guidelines_topcf1655b8-6d53-45fd-83e2-dec61cac8266"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1666" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_8_text_20_guidelines_startcf1655b8-6d53-45fd-83e2-dec61cac8266"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6797" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_8_text_20_guidelines_bottomcf1655b8-6d53-45fd-83e2-dec61cac8266"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8665999999999999" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_1_container_8_text_20_guidelines_endcf1655b8-6d53-45fd-83e2-dec61cac8266"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9346" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_1_row_1_container_8_text_20"
+android:fontFamily="Calibri"
+ android:text="17 Mars 2017" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_1_container_8_text_20_guidelines_startcf1655b8-6d53-45fd-83e2-dec61cac8266"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_1_container_8_text_20_guidelines_topcf1655b8-6d53-45fd-83e2-dec61cac8266"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_1_container_8_text_20_guidelines_endcf1655b8-6d53-45fd-83e2-dec61cac8266"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_1_container_8_text_20_guidelines_bottomcf1655b8-6d53-45fd-83e2-dec61cac8266" />
+                    </android.support.constraint.ConstraintLayout>
+                </android.support.constraint.ConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_guidelines_top7ae87b46-0ed6-4366-9f96-33477c89cd65"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5203" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_guidelines_start7ae87b46-0ed6-4366-9f96-33477c89cd65"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_guidelines_bottom7ae87b46-0ed6-4366-9f96-33477c89cd65"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.92797" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_guidelines_end7ae87b46-0ed6-4366-9f96-33477c89cd65"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_2_7ae87b46_0ed6_4366_9f96_33477c89cd65" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_2_guidelines_start7ae87b46-0ed6-4366-9f96-33477c89cd65" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_2_guidelines_top7ae87b46-0ed6-4366-9f96-33477c89cd65" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_2_guidelines_end7ae87b46-0ed6-4366-9f96-33477c89cd65" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_2_guidelines_bottom7ae87b46-0ed6-4366-9f96-33477c89cd65">
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_guidelines_top7f481019-8a78-45c5-b04d-99eaec395172"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_guidelines_start7f481019-8a78-45c5-b04d-99eaec395172"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39840000000000003" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_guidelines_bottom7f481019-8a78-45c5-b04d-99eaec395172"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_guidelines_end7f481019-8a78-45c5-b04d-99eaec395172"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_2_container_10_7f481019_8a78_45c5_b04d_99eaec395172" android:background="#ffffff" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_2_container_10_guidelines_start7f481019-8a78-45c5-b04d-99eaec395172" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_2_container_10_guidelines_top7f481019-8a78-45c5-b04d-99eaec395172" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_2_container_10_guidelines_end7f481019-8a78-45c5-b04d-99eaec395172" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_2_container_10_guidelines_bottom7f481019-8a78-45c5-b04d-99eaec395172">
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_25_guidelines_tope40987f3-4bcd-462a-8471-7002714b2748"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.21170000000000003" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_25_guidelines_starte40987f3-4bcd-462a-8471-7002714b2748"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0216" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_25_guidelines_bottome40987f3-4bcd-462a-8471-7002714b2748"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.93522" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_25_guidelines_ende40987f3-4bcd-462a-8471-7002714b2748"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9783" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_25"
+android:fontFamily="Calibri"
+ android:text="aliqua cupidatat anim ad elit qui enim pariatur ut nostrud nostrud reprehenderit ea sunt ipsum in duis irure nulla nisi sit consectetur duis dolor eiusmod ullamco eu Lorem aliquip occaecat veniam nisi consectetur reprehenderit ipsum nostrud duis exercitation ipsum eu cupidatat ullamco nostrud nisi culpa Lorem ex tempor occaecat irure consectetur non reprehenderit duis sunt officia do elit exercit." 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_2_container_10_text_25_guidelines_starte40987f3-4bcd-462a-8471-7002714b2748"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_2_container_10_text_25_guidelines_tope40987f3-4bcd-462a-8471-7002714b2748"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_2_container_10_text_25_guidelines_ende40987f3-4bcd-462a-8471-7002714b2748"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_2_container_10_text_25_guidelines_bottome40987f3-4bcd-462a-8471-7002714b2748" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_26_guidelines_top31eb3daf-5ebc-4b21-b578-fe57dfa07de4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0588" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_26_guidelines_start31eb3daf-5ebc-4b21-b578-fe57dfa07de4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0216" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_26_guidelines_bottom31eb3daf-5ebc-4b21-b578-fe57dfa07de4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.21173999999999998" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_26_guidelines_end31eb3daf-5ebc-4b21-b578-fe57dfa07de4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.31379999999999997" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_1_row_2_container_10_text_26"
+android:fontFamily="Calibri"
+ android:text="Titre de l&#39;actualité" 
+android:textSize="4dp"
+android:gravity="left|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_2_container_10_text_26_guidelines_start31eb3daf-5ebc-4b21-b578-fe57dfa07de4"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_2_container_10_text_26_guidelines_top31eb3daf-5ebc-4b21-b578-fe57dfa07de4"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_2_container_10_text_26_guidelines_end31eb3daf-5ebc-4b21-b578-fe57dfa07de4"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_2_container_10_text_26_guidelines_bottom31eb3daf-5ebc-4b21-b578-fe57dfa07de4" />
+                    </android.support.constraint.ConstraintLayout>
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_11_guidelines_top18c0adc2-03a8-4cc5-9fdb-cbb5f5dc8b3a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_11_guidelines_start18c0adc2-03a8-4cc5-9fdb-cbb5f5dc8b3a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_11_guidelines_bottom18c0adc2-03a8-4cc5-9fdb-cbb5f5dc8b3a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_11_guidelines_end18c0adc2-03a8-4cc5-9fdb-cbb5f5dc8b3a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39843000000000006" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_2_container_11_18c0adc2_03a8_4cc5_9fdb_cbb5f5dc8b3a" android:background="#ffffff" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_2_container_11_guidelines_start18c0adc2-03a8-4cc5-9fdb-cbb5f5dc8b3a" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_2_container_11_guidelines_top18c0adc2-03a8-4cc5-9fdb-cbb5f5dc8b3a" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_2_container_11_guidelines_end18c0adc2-03a8-4cc5-9fdb-cbb5f5dc8b3a" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_2_container_11_guidelines_bottom18c0adc2-03a8-4cc5-9fdb-cbb5f5dc8b3a">
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_11_image_4_guidelines_topea2ead45-994f-4d48-8505-4163c061e31c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0588" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_11_image_4_guidelines_startea2ead45-994f-4d48-8505-4163c061e31c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.052199999999999996" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_11_image_4_guidelines_bottomea2ead45-994f-4d48-8505-4163c061e31c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7646799999999999" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_2_container_11_image_4_guidelines_endea2ead45-994f-4d48-8505-4163c061e31c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.94762" />
+                        <ImageView
+android:id="@+id/Actualité_row_2_container_1_row_2_container_11_image_4"
+android:src="@mipmap/ic_launcher_round"
+android:layout_width="76dp"
+android:layout_height="33dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_2_container_11_image_4_guidelines_startea2ead45-994f-4d48-8505-4163c061e31c"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_2_container_11_image_4_guidelines_topea2ead45-994f-4d48-8505-4163c061e31c"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_2_container_11_image_4_guidelines_endea2ead45-994f-4d48-8505-4163c061e31c"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_2_container_11_image_4_guidelines_bottomea2ead45-994f-4d48-8505-4163c061e31c" />
+                    </android.support.constraint.ConstraintLayout>
+                </android.support.constraint.ConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_guidelines_topcdf1f24a-813e-4277-8263-da60bf155048"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9279999999999999" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_guidelines_startcdf1f24a-813e-4277-8263-da60bf155048"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_guidelines_bottomcdf1f24a-813e-4277-8263-da60bf155048"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.99994" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_guidelines_endcdf1f24a-813e-4277-8263-da60bf155048"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_3_cdf1f24a_813e_4277_8263_da60bf155048" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_3_guidelines_startcdf1f24a-813e-4277-8263-da60bf155048" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_3_guidelines_topcdf1f24a-813e-4277-8263-da60bf155048" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_3_guidelines_endcdf1f24a-813e-4277-8263-da60bf155048" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_3_guidelines_bottomcdf1f24a-813e-4277-8263-da60bf155048">
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_12_guidelines_top5052618b-5788-4315-87d0-8b19b0d26cd5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_12_guidelines_start5052618b-5788-4315-87d0-8b19b0d26cd5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_12_guidelines_bottom5052618b-5788-4315-87d0-8b19b0d26cd5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_12_guidelines_end5052618b-5788-4315-87d0-8b19b0d26cd5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39843000000000006" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_3_container_12_5052618b_5788_4315_87d0_8b19b0d26cd5" android:background="#ffffff" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_3_container_12_guidelines_start5052618b-5788-4315-87d0-8b19b0d26cd5" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_3_container_12_guidelines_top5052618b-5788-4315-87d0-8b19b0d26cd5" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_3_container_12_guidelines_end5052618b-5788-4315-87d0-8b19b0d26cd5" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_3_container_12_guidelines_bottom5052618b-5788-4315-87d0-8b19b0d26cd5">
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_12_text_21_guidelines_top609063a3-1539-4263-ab13-0237bd889303"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1666" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_12_text_21_guidelines_start609063a3-1539-4263-ab13-0237bd889303"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5915" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_12_text_21_guidelines_bottom609063a3-1539-4263-ab13-0237bd889303"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8665999999999999" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_12_text_21_guidelines_end609063a3-1539-4263-ab13-0237bd889303"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.93136" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_1_row_3_container_12_text_21"
+android:fontFamily="Calibri"
+ android:text="Date de publication" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_3_container_12_text_21_guidelines_start609063a3-1539-4263-ab13-0237bd889303"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_3_container_12_text_21_guidelines_top609063a3-1539-4263-ab13-0237bd889303"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_3_container_12_text_21_guidelines_end609063a3-1539-4263-ab13-0237bd889303"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_3_container_12_text_21_guidelines_bottom609063a3-1539-4263-ab13-0237bd889303" />
+                    </android.support.constraint.ConstraintLayout>
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_guidelines_topf5961273-68b0-4879-bf41-bf85b0624121"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_guidelines_startf5961273-68b0-4879-bf41-bf85b0624121"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.39840000000000003" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_guidelines_bottomf5961273-68b0-4879-bf41-bf85b0624121"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_guidelines_endf5961273-68b0-4879-bf41-bf85b0624121"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_3_container_13_f5961273_68b0_4879_bf41_bf85b0624121" android:background="#ffffff" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_3_container_13_guidelines_startf5961273-68b0-4879-bf41-bf85b0624121" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_3_container_13_guidelines_topf5961273-68b0-4879-bf41-bf85b0624121" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_3_container_13_guidelines_endf5961273-68b0-4879-bf41-bf85b0624121" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_3_container_13_guidelines_bottomf5961273-68b0-4879-bf41-bf85b0624121">
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_guidelines_topa9ba6ad7-0d9a-4324-a32c-68a6a2d3660e"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1666" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_guidelines_starta9ba6ad7-0d9a-4324-a32c-68a6a2d3660e"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0216" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_guidelines_bottoma9ba6ad7-0d9a-4324-a32c-68a6a2d3660e"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8665999999999999" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_guidelines_enda9ba6ad7-0d9a-4324-a32c-68a6a2d3660e"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.96532" />
+                        <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_a9ba6ad7_0d9a_4324_a32c_68a6a2d3660e" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_guidelines_starta9ba6ad7-0d9a-4324-a32c-68a6a2d3660e" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_guidelines_topa9ba6ad7-0d9a-4324-a32c-68a6a2d3660e" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_guidelines_enda9ba6ad7-0d9a-4324-a32c-68a6a2d3660e" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_guidelines_bottoma9ba6ad7-0d9a-4324-a32c-68a6a2d3660e">
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_2_guidelines_topfbcad1de-0501-4446-81e8-a12165ed870f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_2_guidelines_startfbcad1de-0501-4446-81e8-a12165ed870f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_2_guidelines_bottomfbcad1de-0501-4446-81e8-a12165ed870f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_2_guidelines_endfbcad1de-0501-4446-81e8-a12165ed870f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3188" />
+                            <Button
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_2"
+android:fontFamily="Calibri"
+android:text="Actualité Générale"
+android:textSize="4dp"
+android:background="#ffffff"
+android:layout_width="38dp"
+android:layout_height="6dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_2_guidelines_startfbcad1de-0501-4446-81e8-a12165ed870f"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_2_guidelines_topfbcad1de-0501-4446-81e8-a12165ed870f"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_2_guidelines_endfbcad1de-0501-4446-81e8-a12165ed870f"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_2_guidelines_bottomfbcad1de-0501-4446-81e8-a12165ed870f"/>
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_text_23_guidelines_topd02103f7-df53-4b1f-a612-af0ff6893960"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_text_23_guidelines_startd02103f7-df53-4b1f-a612-af0ff6893960"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.8645999999999999" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_text_23_guidelines_bottomd02103f7-df53-4b1f-a612-af0ff6893960"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_text_23_guidelines_endd02103f7-df53-4b1f-a612-af0ff6893960"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999199999999999" />
+                            <TextView
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_text_23"
+android:fontFamily="Calibri"
+ android:text="Lire la suite" 
+android:textColor="#00000a"
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_text_23_guidelines_startd02103f7-df53-4b1f-a612-af0ff6893960"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_text_23_guidelines_topd02103f7-df53-4b1f-a612-af0ff6893960"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_text_23_guidelines_endd02103f7-df53-4b1f-a612-af0ff6893960"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_text_23_guidelines_bottomd02103f7-df53-4b1f-a612-af0ff6893960" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_3_guidelines_topc6ae45a6-4019-4fe2-9828-13fe94e0dc02"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_3_guidelines_startc6ae45a6-4019-4fe2-9828-13fe94e0dc02"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3188" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_3_guidelines_bottomc6ae45a6-4019-4fe2-9828-13fe94e0dc02"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_3_guidelines_endc6ae45a6-4019-4fe2-9828-13fe94e0dc02"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5733799999999999" />
+                            <Button
+android:id="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_3"
+android:fontFamily="Calibri"
+android:text="Geny Intérim"
+android:textSize="4dp"
+android:background="#ffffff"
+android:layout_width="31dp"
+android:layout_height="6dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_3_guidelines_startc6ae45a6-4019-4fe2-9828-13fe94e0dc02"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_3_guidelines_topc6ae45a6-4019-4fe2-9828-13fe94e0dc02"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_3_guidelines_endc6ae45a6-4019-4fe2-9828-13fe94e0dc02"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_1_row_3_container_13_row_0_button_3_guidelines_bottomc6ae45a6-4019-4fe2-9828-13fe94e0dc02"/>
+                        </android.support.constraint.ConstraintLayout>
+                    </android.support.constraint.ConstraintLayout>
+                </android.support.constraint.ConstraintLayout>
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_guidelines_top4cd1116e-98e2-43ee-b9c7-977de00e47ac"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_guidelines_start4cd1116e-98e2-43ee-b9c7-977de00e47ac"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_guidelines_bottom4cd1116e-98e2-43ee-b9c7-977de00e47ac"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+            <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_guidelines_end4cd1116e-98e2-43ee-b9c7-977de00e47ac"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.18739" />
+            <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_2_4cd1116e_98e2_43ee_b9c7_977de00e47ac" android:background="#f2f2f2" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_guidelines_start4cd1116e-98e2-43ee-b9c7-977de00e47ac" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_guidelines_top4cd1116e-98e2-43ee-b9c7-977de00e47ac" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_guidelines_end4cd1116e-98e2-43ee-b9c7-977de00e47ac" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_guidelines_bottom4cd1116e-98e2-43ee-b9c7-977de00e47ac">
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_guidelines_topecf80aa4-8f14-4de7-a13f-0c45cd08dba3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0364" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_guidelines_startecf80aa4-8f14-4de7-a13f-0c45cd08dba3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0363" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_guidelines_bottomecf80aa4-8f14-4de7-a13f-0c45cd08dba3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.40136000000000005" />
+                <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_guidelines_endecf80aa4-8f14-4de7-a13f-0c45cd08dba3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9453900000000001" />
+                <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_2_container_3_ecf80aa4_8f14_4de7_a13f_0c45cd08dba3" android:background="#f2f2f2" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_guidelines_startecf80aa4-8f14-4de7-a13f-0c45cd08dba3" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_guidelines_topecf80aa4-8f14-4de7-a13f-0c45cd08dba3" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_guidelines_endecf80aa4-8f14-4de7-a13f-0c45cd08dba3" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_guidelines_bottomecf80aa4-8f14-4de7-a13f-0c45cd08dba3">
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_text_8_guidelines_top1581ef6a-0477-4721-a89c-a490af598c54"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.05" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_text_8_guidelines_start1581ef6a-0477-4721-a89c-a490af598c54"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.05" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_text_8_guidelines_bottom1581ef6a-0477-4721-a89c-a490af598c54"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.165" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_text_8_guidelines_end1581ef6a-0477-4721-a89c-a490af598c54"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.95" />
+                    <TextView
+android:id="@+id/Actualité_row_2_container_2_container_3_text_8"
+android:fontFamily="Calibri"
+ android:text="Catégorie d&#39;article" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_text_8_guidelines_start1581ef6a-0477-4721-a89c-a490af598c54"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_text_8_guidelines_top1581ef6a-0477-4721-a89c-a490af598c54"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_text_8_guidelines_end1581ef6a-0477-4721-a89c-a490af598c54"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_text_8_guidelines_bottom1581ef6a-0477-4721-a89c-a490af598c54" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_guidelines_tope1dcb389-242e-454c-8fd8-d903f06f6d96"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.24" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_guidelines_starte1dcb389-242e-454c-8fd8-d903f06f6d96"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.125" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_guidelines_bottome1dcb389-242e-454c-8fd8-d903f06f6d96"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_guidelines_ende1dcb389-242e-454c-8fd8-d903f06f6d96"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.875" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_e1dcb389_242e_454c_8fd8_d903f06f6d96" android:background="#f2f2f2" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_guidelines_starte1dcb389-242e-454c-8fd8-d903f06f6d96" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_guidelines_tope1dcb389-242e-454c-8fd8-d903f06f6d96" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_guidelines_ende1dcb389-242e-454c-8fd8-d903f06f6d96" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_guidelines_bottome1dcb389-242e-454c-8fd8-d903f06f6d96">
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_9_guidelines_top88ed5291-d872-4bba-8935-4dc853091394"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_9_guidelines_start88ed5291-d872-4bba-8935-4dc853091394"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0333" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_9_guidelines_bottom88ed5291-d872-4bba-8935-4dc853091394"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.12121" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_9_guidelines_end88ed5291-d872-4bba-8935-4dc853091394"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.96663" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_9"
+android:fontFamily="Calibri"
+ android:text="Actualité générale" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_9_guidelines_start88ed5291-d872-4bba-8935-4dc853091394"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_9_guidelines_top88ed5291-d872-4bba-8935-4dc853091394"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_9_guidelines_end88ed5291-d872-4bba-8935-4dc853091394"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_9_guidelines_bottom88ed5291-d872-4bba-8935-4dc853091394" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_10_guidelines_topff5c8b31-c26b-448a-bf8b-daf7d71923cc"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.12119999999999999" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_10_guidelines_startff5c8b31-c26b-448a-bf8b-daf7d71923cc"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0333" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_10_guidelines_bottomff5c8b31-c26b-448a-bf8b-daf7d71923cc"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.24241" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_10_guidelines_endff5c8b31-c26b-448a-bf8b-daf7d71923cc"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.96663" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_10"
+android:fontFamily="Calibri"
+ android:text="Alerte" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_10_guidelines_startff5c8b31-c26b-448a-bf8b-daf7d71923cc"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_10_guidelines_topff5c8b31-c26b-448a-bf8b-daf7d71923cc"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_10_guidelines_endff5c8b31-c26b-448a-bf8b-daf7d71923cc"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_10_guidelines_bottomff5c8b31-c26b-448a-bf8b-daf7d71923cc" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_11_guidelines_top8c05c6bc-c50f-4a51-861f-19793e12cd70"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.24239999999999998" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_11_guidelines_start8c05c6bc-c50f-4a51-861f-19793e12cd70"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0333" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_11_guidelines_bottom8c05c6bc-c50f-4a51-861f-19793e12cd70"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.36361" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_11_guidelines_end8c05c6bc-c50f-4a51-861f-19793e12cd70"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.96663" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_11"
+android:fontFamily="Calibri"
+ android:text="Geny Interim" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_11_guidelines_start8c05c6bc-c50f-4a51-861f-19793e12cd70"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_11_guidelines_top8c05c6bc-c50f-4a51-861f-19793e12cd70"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_11_guidelines_end8c05c6bc-c50f-4a51-861f-19793e12cd70"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_11_guidelines_bottom8c05c6bc-c50f-4a51-861f-19793e12cd70" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_12_guidelines_topa7b220e6-6514-4562-9af0-28ba873859ab"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.3636" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_12_guidelines_starta7b220e6-6514-4562-9af0-28ba873859ab"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0333" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_12_guidelines_bottoma7b220e6-6514-4562-9af0-28ba873859ab"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.48481" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_12_guidelines_enda7b220e6-6514-4562-9af0-28ba873859ab"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.96663" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_12"
+android:fontFamily="Calibri"
+ android:text="News" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_12_guidelines_starta7b220e6-6514-4562-9af0-28ba873859ab"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_12_guidelines_topa7b220e6-6514-4562-9af0-28ba873859ab"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_12_guidelines_enda7b220e6-6514-4562-9af0-28ba873859ab"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_12_guidelines_bottoma7b220e6-6514-4562-9af0-28ba873859ab" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_13_guidelines_top98c29fa3-f034-4817-83db-e26a7298be53"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.48479999999999995" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_13_guidelines_start98c29fa3-f034-4817-83db-e26a7298be53"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0333" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_13_guidelines_bottom98c29fa3-f034-4817-83db-e26a7298be53"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6060099999999999" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_13_guidelines_end98c29fa3-f034-4817-83db-e26a7298be53"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.96663" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_13"
+android:fontFamily="Calibri"
+ android:text="Presse" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_13_guidelines_start98c29fa3-f034-4817-83db-e26a7298be53"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_13_guidelines_top98c29fa3-f034-4817-83db-e26a7298be53"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_13_guidelines_end98c29fa3-f034-4817-83db-e26a7298be53"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_13_guidelines_bottom98c29fa3-f034-4817-83db-e26a7298be53" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_14_guidelines_topc52a00c7-096d-4f33-a6b2-f552ed7597c4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.606" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_14_guidelines_startc52a00c7-096d-4f33-a6b2-f552ed7597c4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0333" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_14_guidelines_bottomc52a00c7-096d-4f33-a6b2-f552ed7597c4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.72721" />
+                        <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_14_guidelines_endc52a00c7-096d-4f33-a6b2-f552ed7597c4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.96663" />
+                        <TextView
+android:id="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_14"
+android:fontFamily="Calibri"
+ android:text="Vidéo" 
+android:textSize="3.2dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_14_guidelines_startc52a00c7-096d-4f33-a6b2-f552ed7597c4"
+app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_14_guidelines_topc52a00c7-096d-4f33-a6b2-f552ed7597c4"
+app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_14_guidelines_endc52a00c7-096d-4f33-a6b2-f552ed7597c4"
+app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_listbox_1_text_14_guidelines_bottomc52a00c7-096d-4f33-a6b2-f552ed7597c4" />
+                    </android.support.constraint.ConstraintLayout>
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_unsupported_4_guidelines_tope3cb8f1c-c776-47cc-a6f2-5388239da81c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.165" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_unsupported_4_guidelines_starte3cb8f1c-c776-47cc-a6f2-5388239da81c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.05" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_unsupported_4_guidelines_bottome3cb8f1c-c776-47cc-a6f2-5388239da81c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.215" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Actualité_row_2_container_2_container_3_unsupported_4_guidelines_ende3cb8f1c-c776-47cc-a6f2-5388239da81c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.95" />
+                    <android.support.constraint.ConstraintLayout android:id="@+id/Actualité_row_2_container_2_container_3_unsupported_4_e3cb8f1c_c776_47cc_a6f2_5388239da81c" android:background="#ff0000" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp" android:layout_marginStart="0dp" app:layout_constraintStart_toStartOf="@+id/Actualité_row_2_container_2_container_3_unsupported_4_guidelines_starte3cb8f1c-c776-47cc-a6f2-5388239da81c" app:layout_constraintTop_toTopOf="@+id/Actualité_row_2_container_2_container_3_unsupported_4_guidelines_tope3cb8f1c-c776-47cc-a6f2-5388239da81c" app:layout_constraintEnd_toEndOf="@+id/Actualité_row_2_container_2_container_3_unsupported_4_guidelines_ende3cb8f1c-c776-47cc-a6f2-5388239da81c" app:layout_constraintBottom_toBottomOf="@+id/Actualité_row_2_container_2_container_3_unsupported_4_guidelines_bottome3cb8f1c-c776-47cc-a6f2-5388239da81c">
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                        <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                        <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+                    </android.support.constraint.ConstraintLayout>
+                </android.support.constraint.ConstraintLayout>
+            </android.support.constraint.ConstraintLayout>
+        </android.support.constraint.ConstraintLayout>
+    </android.support.constraint.ConstraintLayout>
+</LinearLayout>
